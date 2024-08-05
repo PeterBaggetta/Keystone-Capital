@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import headerLogo from '../Images/logo_words.png'
+import headerLogo from '../Images/KeystoneCapitalGlobal.png'
 
 function Header() {
   return (
